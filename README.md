@@ -8,11 +8,14 @@ The app is built using React Native and Expo.
 
 We used the Expo API to get the image from the device's photo library and the Expo Image Picker API to share the image.
 
+<br>
+<p align=center>
 <img src="https://img.shields.io/github/repo-size/christianecg/image-picker?style=for-the-badge">
 <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge">
 <img src="https://img.shields.io/github/followers/christianecg?style=for-the-badge">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Play_Store-444444?style=for-the-badge&logo=google-play&logoColor=61DAFB">
+</p>
 
 ## Tech Stack
 
